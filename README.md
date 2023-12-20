@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 👽 About Me:
 Hi! I'm Kevin Rodríguez. <br>I'm Web Developer with excelente comunicación skills. <br>I love collaborating and working as a team.<br>
 
 
-## 🌐 Socials:
+## 👾 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/people/Kevin-Rodriguez/pfbid0fGXsRzizySDSJDkotjmwRrzW7VWk1uHHtjndctM4pWJiy3MbC8PeojXMca6KEkRgl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nerocodex) 
 
 # 💻 Tech Stack:
@@ -11,9 +11,7 @@ Hi! I'm Kevin Rodríguez. <br>I'm Web Developer with excelente comunicación ski
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NeroCodeX&theme=default&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
