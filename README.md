@@ -1,5 +1,5 @@
 # 👽 About Me:
-Hi! I'm Kevin Rodríguez. <br>I'm Web Developer with excelente comunicación skills. <br>I love collaborating and working as a team.<br>
+Hi! I'm Kevin Rodríguez, a Web Developer with excellent communication skills. I thrive in collaborative and team environments, and I am passionate about creating innovative solutions to complex problems. In addition to my professional interests, I enjoy anime, drawing, and exploring culinary experiences. I am also dedicated to community engagement and have a strong passion for teaching and mentoring.<br>
 
 
 ## 👾 Socials:
